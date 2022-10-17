@@ -78,7 +78,7 @@ public class IntegerSet {
     /**
      * This method Return true if the set is empty, false otherwise
      */
-    boolean isEmpty() {
+    public boolean isEmpty() {
         return this.length() == 0;
     }
 
