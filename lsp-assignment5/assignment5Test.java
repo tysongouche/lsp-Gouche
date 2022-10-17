@@ -2,7 +2,7 @@ package org.howard.edu.lsp.assignment5.org.howard.edu.lsp;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
-import IntegerSet*;
+import IntegerSet;
 
 /** Tyson Gouche
  *
